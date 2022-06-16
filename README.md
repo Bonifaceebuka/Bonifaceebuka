@@ -3,7 +3,7 @@
 
 <!-- **Bonifaceebuka/Bonifaceebuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🌱 I’m a Web & Blockchain developer
 - 🔭 I’m currently studying blockchain app(Dapp) development
