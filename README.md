@@ -6,10 +6,10 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🌱 I’m a Web & Blockchain developer
-- 🔭 I’m currently studying blockchain app(Dapp) development
+- 🔭 I’m currently studying Web development with NESTJS
 - 👯 I’m looking to collaborate on cool and interesting Web3 projects
 - 🤔 I’m looking for help with Web3 app security Audit
-- 💬 Ask me about PHP, Laravel, MYSQL
+- 💬 Ask me about PHP, NodejS, MongoDB & Mongoose, Express, EJS, Laravel & MYSQL
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: Low key lover of action movies, good music and video games😄
 
