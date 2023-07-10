@@ -19,7 +19,7 @@
 - Twitter - https://twitter.com/bonifaceebuka
 - ✨ Feel free to checkout my portfolio here - https://www.bonifaceebuka.com
 
-<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Bonifaceebuka" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bonifaceebuka?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills -  Web2
